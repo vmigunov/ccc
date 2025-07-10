@@ -37,4 +37,3 @@ app-logs:
 .PHONY: test
 test:
 	${EXEC} ${APP_CONTAINER} pytest
-
